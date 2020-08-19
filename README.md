@@ -18,6 +18,8 @@ vagrant halt: Apacha la VM
 vagrant destroy: Destrute la VM
 
 vagrant provision: Resetea una VM
+
+vagrant ssh: entra a la VM en sudo sin pedir clave ni dada, para entra al el sudo hay que digitarlo ya estando dentro
 ```
 
 Nota: Cabe destacar que estos comandos se deben ejecutar en la carpeta donde se inicializo el vagrant
